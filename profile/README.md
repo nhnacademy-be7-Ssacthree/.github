@@ -44,7 +44,7 @@
     - MySQL: 8.0.25
     - Redis
 - 검색엔진
-    - Elastic Search: 7.11.1
+    - Elasticsearch: 8.6.2
 - 모델링(ERD)
     - ERD Cloud
 - 협업 도구
@@ -133,8 +133,8 @@
 <br>
 
 ### 테스트 커버리지
-- 목표 : Line Coverage 80% 이상 (백엔드 shop 서버 - 2024년 12월 13일 (금) 기준 77%)
-  ![image](https://github.com/user-attachments/assets/226c34b1-621a-43fa-8aec-090f91041efe)
+- 목표 : Line Coverage 80% 이상 (백엔드 shop 서버 - 2024년 12월 13일 (금) 기준 80%)
+![image](https://github.com/user-attachments/assets/e70fefc0-8844-4b2b-b32b-70f08d59de98)
 
 
 ## Project Management
