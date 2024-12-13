@@ -160,6 +160,7 @@
 - github Kanban 활용으로 실시간 진행 상황 관리
   ![image](https://github.com/user-attachments/assets/2de7fb99-d87f-4097-aa7f-9c1f5ffbf30f)
 
+# 기능
 
 ## 김희망
 
