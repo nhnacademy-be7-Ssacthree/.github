@@ -118,7 +118,6 @@
 
 ## 아키텍쳐 구조
 ![image](https://github.com/user-attachments/assets/88f0c42b-1025-4230-b438-9c7c7fe0f93d)
-![image](https://github.com/user-attachments/assets/af252897-3396-4fbf-a721-4e091815e852)
 
 
 
@@ -137,6 +136,8 @@
 ### 테스트 커버리지
 - 목표 : Line Coverage 80% 이상 (백엔드 shop 서버 - 2024년 12월 13일 (금) 기준 80%)
 ![image](https://github.com/user-attachments/assets/e70fefc0-8844-4b2b-b32b-70f08d59de98)
+![image](https://github.com/user-attachments/assets/f5d62bd9-311d-49bb-ac7d-adbf472434e8)
+
 
 
 ## Project Management
