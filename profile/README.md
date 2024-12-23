@@ -118,6 +118,8 @@
 
 ## 아키텍쳐 구조
 ![image](https://github.com/user-attachments/assets/88f0c42b-1025-4230-b438-9c7c7fe0f93d)
+![image](https://github.com/user-attachments/assets/af252897-3396-4fbf-a721-4e091815e852)
+
 
 
 <br>
@@ -185,7 +187,7 @@
 
 ## 박민지
 
-## 인프라
+### 인프라
 1. GitHub Action을 이용한 CI/CD 파이프라인 구축
 2. Eureka를 활용한 백엔드 서버 이중화 및 무중단 배포
 3. shop, front, gateway 등 각 서버 관리
