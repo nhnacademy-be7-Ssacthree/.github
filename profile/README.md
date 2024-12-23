@@ -135,7 +135,6 @@
 
 ### 테스트 커버리지
 - 목표 : Line Coverage 80% 이상 (백엔드 shop 서버 - 2024년 12월 13일 (금) 기준 80%)
-![image](https://github.com/user-attachments/assets/e70fefc0-8844-4b2b-b32b-70f08d59de98)
 ![image](https://github.com/user-attachments/assets/f5d62bd9-311d-49bb-ac7d-adbf472434e8)
 
 
